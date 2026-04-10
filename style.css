@@ -196,7 +196,7 @@ p{
   
   height: 600px;
   display: flex;
-  width: 700px;
+  width: 100%;
   gap: 20px;
   
 }
@@ -454,4 +454,112 @@ padding: 8px;
   display: flex;
   flex-direction: column;
  gap: none;
+}
+.mark{
+  height: 250px;
+  width: 100%;
+  
+ display: flex;
+  
+}
+.inside-one{
+  height: 100%;
+  width: 50%;
+  
+  
+}
+.outside-one{
+  height: 100%;
+  width: 50%;
+  
+}
+.mark-1{
+  height: 33.3%;
+  width: 100%;
+  display: flex;
+  
+  gap: 10px;
+}
+.vector{
+  display: flex;
+  justify-content: end;
+ align-content: Center ;
+ align-items: Center ;
+ text-align: center;
+}
+.mark-2{
+  height: 33.3%;
+  width: 100%;
+  display: flex;
+  
+  gap: 10px;
+}
+.mark-3{
+  height: 33.3%;
+  width: 100%;
+  display: flex;
+  
+  gap: 10px;
+}
+.mark-4{
+  height: 33.3%;
+  width: 100%;
+  display: flex;
+
+  gap: 10px;
+}
+.mark-5{
+  height: 33.3%;
+  width: 100%;
+  display: flex;
+ 
+  gap: 10px;
+}
+.mark-6{
+  height: 33.3%;
+  width: 100%;
+  display: flex;
+ 
+  gap: 10px;
+}
+.subs{
+  height: 300px;
+  width: 100%;
+  background-color: bisque;
+  display: flex;
+ padding: 20px;
+}
+.inside-two{
+  height: 100%;
+  width: 50%;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  
+}
+.outside-two{
+  height: 100%;
+  width: 50%;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.email{
+  height: 50px;
+  width: 70%;
+  border-radius: 5px;
+  border: none;
+  
+ 
+}
+.submit{
+  height: 50px;
+  width: 70%;
+  color: white;
+  background-color: limegreen;
+  border: none;
+  border-radius: 5px;
 }
